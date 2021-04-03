@@ -1,9 +1,10 @@
 var cacheName = 'basic-pwa';
+var baseDir = '/basic-pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/main.js'
+  baseDir + '/',
+  baseDir + '/index.html',
+  baseDir + '/css/style.css',
+  baseDir + '/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
