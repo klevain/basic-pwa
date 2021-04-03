@@ -1,0 +1,9 @@
+{
+  "name": "Basic Progressive Web App",
+  "short_name": "Basic PWA",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
